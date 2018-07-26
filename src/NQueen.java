@@ -18,6 +18,7 @@ public class NQueen{
 				}
 			}
 		}
+		// this is n queen!
 		return 0;
 	}
 }
